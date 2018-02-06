@@ -3,7 +3,7 @@
  :point_right: It's very easy to make some words **bold** and other words *italic* with Markdown.
 
 ### :point_right: This is example of inserting link
-[link to Google](http://google.com)
+[link to Google!](http://google.com)
 
 ### :point_right: This is example of List
 - Dashes work just as well
