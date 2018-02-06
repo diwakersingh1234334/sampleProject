@@ -20,7 +20,7 @@ Content in the first column | Content in the second column
 
  :point_right: ~~this functionality is removed from the code~~
  
- <details>
+ <details><summary>click</summary>
 ### :point_right: Example of code snipet 
  ```javascript
 function fancyAlert(arg) {
@@ -29,7 +29,7 @@ function fancyAlert(arg) {
   }
 }
 ```</details>
-<summary>click</summary>
+
 
 ### :point_right: BLOCKQUOTES
 As Kanye West said:
