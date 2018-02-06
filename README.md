@@ -20,7 +20,7 @@ Content in the first column | Content in the second column
 
  :point_right: ~~this functionality is removed from the code~~
  
- <details><summary>click</summary>
+
 ### :point_right: Example of code snipet 
  ```javascript
 function fancyAlert(arg) {
@@ -28,14 +28,15 @@ function fancyAlert(arg) {
     $.facebox({div:'#foo'})
   }
 }
-```</details>
+```
 
 
 ### :point_right: BLOCKQUOTES
+ <details><summary>click</summary>
 As Kanye West said:
 
 > We're living the future so
-> the present is our past.
+> the present is our past.</details>
 
 ### :point_right: This is exmaple of inserting image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
