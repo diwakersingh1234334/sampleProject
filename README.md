@@ -28,6 +28,11 @@ function fancyAlert(arg) {
   }
 }
 ```
+### :point_right: BLOCKQUOTES
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
 ### :point_right: This is exmaple of inserting image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
